@@ -1,0 +1,6 @@
+{
+  "name": "FreWA - Freshwater Observation Hub",
+  "description": "Citizen science freshwater monitoring platform for recording water quality, ecological indicators, and geolocated field observations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

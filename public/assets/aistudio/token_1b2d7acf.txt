@@ -1,0 +1,7 @@
+sbp_fc776318b7a5487d8af8d28fbc391a41f3d5655f
+project-ref = "frewa-monitoring"
+[anon]
+key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpa3J1ZHpod3N3dWNhdndpYnlyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTUzODA1MjUsImV4cCI6MjExMDk1NjUyNX0.y2J2n6g3xjvHrtUhjkFy9F6KXtAasoqfJyTYoJH6kLc"
+[service_role]
+public_key = "sb_publishable_S6i5rktCR4e-clkjTllKqw_QlaAdPRd"
+private_key = "sb_secret_5BM_ROYoPQESZ2by9iu2_Q_6LJQPNsu"
